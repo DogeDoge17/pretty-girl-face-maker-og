@@ -4,5 +4,5 @@ uploaded for archive purposes. please see [losertron16000000 (linux, win, mac)](
 
 this is the og losertron. it was originally made because i wanted to make a ddlc mod [(file to use here👀)](definitions.rpy) and i hated how you had to make sprites. This was a visualizer for my custom sprite implementation. 
 
-inside each of us are two wolves... 
+inside each of us are two wolves... \
 <img width="699" height="438" alt="image" src="https://github.com/user-attachments/assets/3d3e0b1d-ee1f-4c1a-8914-078b57adef99" />
